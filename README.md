@@ -1,5 +1,5 @@
 <div align="center">
-![some random meme](meme.png)
+ <img src="meme.png" />
 </div>
 <!--
 **fus10n-dev/fus10n-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
